@@ -1,0 +1,4 @@
+
+[stderr]
+Error: type error: no function or predicate with name `all_different' found
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_001\generated_model.mzn:7.12-53

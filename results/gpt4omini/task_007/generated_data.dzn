@@ -1,0 +1,2 @@
+int: num_vip_sold = 0;
+int: num_regular_sold = 400;

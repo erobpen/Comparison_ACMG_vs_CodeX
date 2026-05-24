@@ -1,0 +1,22 @@
+
+
+The Renewable Energy Grid Balancing problem involves determining if the energy needs for each month can be satisfied using a combination of renewable energy, non-renewable sources, and stored energy, while staying within a given budget.
+Data:
+- Non-Renewable Sources: 2 sources
+  - Ramp Rates (MW/month): [10, 15]
+  - Maximum Capacities (MW): [100, 200]
+  - Costs per MW: [50, 60]
+- Renewable Energy Availability:
+  - Monthly (example): [300, 400, 500, ..., 1400]
+- Required Energy:
+  - Monthly (example): [500, 600, 700, ..., 1600]
+- Storage Unit:
+  - Capacity: 500 MW
+- Budget: $89,990
+- Common Upper Limit for Resources: 300 MW
+Constraints:
+1. Budget Limit: Ensure that the total cost of non-renewable energy does not exceed the budget.
+2. Ramp-Up/Ramp-Down: Ensure that the change in non-renewable output between months does not exceed ramp rates.
+3. Energy Balance: Ensure that the combination of renewable, non-renewable, and stored energy meets or exceeds the required energy for each month.
+4. Storage Balance: Track the stored energy balance month-to-month, starting with full storage capacity.
+A valid solution ensures that the energy needs are met for each month while staying within the budget and adhering to ramp rate and storage constraints.

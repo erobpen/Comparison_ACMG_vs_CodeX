@@ -1,0 +1,4 @@
+
+[stderr]
+Error: type error: arrays cannot be elements of arrays
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_010\generated_model.mzn:6.3-14

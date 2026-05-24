@@ -1,0 +1,11 @@
+% Example data for a specific problem instance
+
+num_tasks = 4;
+duration = [3, 2, 4, 1];
+resource_requirements = [1, 1, 2, 1];
+num_workers = 2;
+project_deadline = 10;
+
+num_dependencies = 4;
+task_A = [1, 1, 2, 3];
+task_B = [2, 3, 4, 4];

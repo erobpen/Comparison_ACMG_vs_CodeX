@@ -1,0 +1,4 @@
+{
+  "model": "int: n = 8;\n\narray[1..n] of var 1..n: queens;\n\n% Constraints to ensure no two queens threaten each other\nconstraint all_different(queens);\nconstraint all_different([queens[i] + i | i in 1..n]);\nconstraint all_different([queens[i] - i | i in 1..n]);\n\nsolve satisfy;\n\noutput [\"Queen at row \" ++ show(i) ++ \" is in column \" ++ show(queens[i]) ++ \"\\n\" | i in 1..n];",
+  "data": ""
+}

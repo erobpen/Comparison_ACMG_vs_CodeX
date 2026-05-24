@@ -1,0 +1,8 @@
+Start Times: [0, 3, 3, 7]End Times: [3, 5, 7, 8]Max End Time: 8
+----------
+==========
+
+[stderr]
+Warning: variable `t` shadows variable with the same name in line 16.19
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_009\generated_model.mzn:17.9
+

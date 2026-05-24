@@ -1,0 +1,21 @@
+
+
+The Construction Planning problem involves scheduling tasks in a construction project to meet a specified deadline of 10 days. The project consists of 4 tasks, each with a defined duration and resource requirement.
+Data:
+- Number of Tasks: 4
+  - Task Durations: [3, 2, 4, 1]
+  - Resource Requirements: [1, 1, 2, 1]
+- Maximum Number of Workers: 2
+- Project Deadline: 10 days
+- Task Dependencies:
+  - Task 2 depends on Task 1
+  - Task 3 depends on Task 1
+  - Task 4 depends on Tasks 2 and 3
+Constraints:
+1. Task Duration: Each task has a start time and an end time.
+2. Task Dependencies: For each dependency (A, B), task B cannot start until task A is finished.
+3. Resource Constraints: The sum of resources required by all tasks running simultaneously must not exceed the available resources.
+4. Project Deadline: The finish time of the last task must not exceed the project deadline.
+Objective:
+Minimize the maximum end time of all tasks to ensure the project is completed as efficiently as possible.
+A valid solution ensures that the project is completed within the deadline, all task dependencies are satisfied, and resource constraints are adhered to.

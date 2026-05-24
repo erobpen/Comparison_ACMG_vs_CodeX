@@ -1,0 +1,21 @@
+task_id,llm_model,valid_model,repair_attempts,generated_solver_status,reference_solver_status,comparison_result,execution_time_seconds,notes
+task_001,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.071,Generated model was invalid.
+task_002,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.065,Generated model was invalid.
+task_003,GPT-3.5,TRUE,0,SAT,SAT,NOT_COMPARABLE,11.731,"Both executions succeeded, but outputs had no common semantic assignments/objective."
+task_004,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.079,Generated model was invalid.
+task_005,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.061,Generated model was invalid.
+task_006,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.062,Generated model was invalid.
+task_007,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.074,Generated model was invalid.
+task_008,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.079,Generated model was invalid.
+task_009,GPT-3.5,TRUE,0,OPTIMAL_OR_COMPLETE,OPTIMAL_OR_COMPLETE,NOT_COMPARABLE,0.284,"Both executions succeeded, but outputs had no common semantic assignments/objective."
+task_010,GPT-3.5,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.062,Generated model was invalid.
+task_001,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.076,Generated model was invalid.
+task_002,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.074,Generated model was invalid.
+task_003,GPT-4o-mini,FALSE,0,ERROR,NOT_RUN,NOT_COMPARABLE,0.000,Generated model was invalid.
+task_004,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.065,Generated model was invalid.
+task_005,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.068,Generated model was invalid.
+task_006,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.067,Generated model was invalid.
+task_007,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.070,Generated model was invalid.
+task_008,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.066,Generated model was invalid.
+task_009,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.071,Generated model was invalid.
+task_010,GPT-4o-mini,FALSE,5,ERROR,NOT_RUN,NOT_COMPARABLE,0.086,Generated model was invalid.

@@ -1,0 +1,7 @@
+There are n different types of boards and m available slots for them to be allocated. Each board type comes in distinct quantities. Each board takes 1 or2 slots per board. Boards that occupy one slot are referred to as BOARD, and those that occupy two slots are referred to as LBOARD.
+
+There are three single-slot boards: BOARD1, BOARD2, and BOARD3, along with two double-slot boards: LBOARD1 and LBOARD2. Each type of board has unique restrictions on the slots it can occupy. BOARD1 and LBOARD1 can only occupy odd-numbered slots, while BOARD3 can only occupy even-numbered slots. BOARD2 can occupy the following slots: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, and 31. LBOARD2 can only occupy slots that are powers of 2, specifically 2^0, 2^1, 2^2, 2^3, and 2^4.
+
+The quantity of each BOARD type (BOARD1, BOARD2, BOARD3) is 5. LBOARDs (LBOARD1 and LBOARD2) each come in a quantity of 4. Additionally, if an LBOARD is present, it comes in a minimum quantity of 2. LBOARD1 can have a range of 0, 2, 3, 4, and so on, while LBOARD2 follows a range of 0, 2, 4, and so forth. Multiple types of LBOARD1 and LBOARD2 may exist, each with distinct quantities.
+
+There are 36 available slots in total for all boards.

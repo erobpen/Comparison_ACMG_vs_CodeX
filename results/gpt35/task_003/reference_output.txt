@@ -1,0 +1,352 @@
+[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 2, 2, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 2, 2, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 2, 2, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 2, 2, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3] 
+ River:[false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+ Path[false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false] 
+ Bridge[false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false] Parallel
+[false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false]
+----------
+
+[stderr]
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 2 of array has index set 1..40, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:72.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 2 of array has index set 1..40, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:72.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_003\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: Further warnings have been suppressed.
+

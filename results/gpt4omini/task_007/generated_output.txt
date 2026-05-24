@@ -1,0 +1,12 @@
+
+[stderr]
+Multiple syntax errors:
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_007\generated_data.dzn:1.1-21:
+int: num_vip_sold = 0;
+^^^^^^^^^^^^^^^^^^^^^
+Error: variable declaration item not allowed in data file
+
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_007\generated_data.dzn:2.1-27:
+int: num_regular_sold = 400;
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Error: variable declaration item not allowed in data file

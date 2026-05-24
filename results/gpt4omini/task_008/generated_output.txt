@@ -1,0 +1,12 @@
+
+[stderr]
+Multiple syntax errors:
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_008\generated_model.mzn:28.141:
+    renewable_energy[m] + sum([non_renewable_output[m, s] | s in 1..num_sources]) + (if m == 1 then storage_capacity else stored_energy[m-1]) >= required_energy[m]
+                                                                                                                                            ^
+Error: syntax error, unexpected ')'
+
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_008\generated_model.mzn:32.80:
+    stored_energy[m] = (if m == 1 then storage_capacity else stored_energy[m-1]) - (required_energy[m] - renewable_energy[m] - sum([non_renewable_output[m, s] | s in 1..num_sources]))
+                                                                               ^
+Error: syntax error, unexpected ')'

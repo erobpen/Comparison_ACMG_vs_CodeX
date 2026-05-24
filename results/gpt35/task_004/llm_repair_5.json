@@ -1,0 +1,4 @@
+{
+    "model": "int: n; int: m; int: k; int: z; set of int: SUBJECTS = 1..4; set of int: DAYS = 1..5; array[DAYS, SUBJECTS] of int: class_qty = [| 2, 2, 1, 3 | 1, 2, 3, 3 | 1, 2, 3, 3 | 4, 2, 1, 3 |]; array[1..k, SUBJECTS] of var 0..z: subject_sessions; array[1..k, DAYS] of var 1..n: classroom_assigned; constraint forall(i in 1..k, j in 1..DAYS)(sum(d in SUBJECTS)(subject_sessions[i,d]) == sum(d in SUBJECTS)(class_qty[i,d])); constraint forall(i in 1..k, d in DAYS)(sum(j in 1..n)(classroom_assigned[i,j] == 1) <= m); solve satisfy; output [\"subject_sessions: \", subject_sessions, \"\\nclassroom_assigned: \", classroom_assigned];",
+    "data": "n = 4; m = 3; k = 4; z = 5;"
+}

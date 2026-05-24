@@ -1,0 +1,4 @@
+{
+    "model": "int: N = 4;\nint: rows = 3;\nint: cols = 3;\narray[1..N] of 1..rows*cols: position;\narray[1..N, 1..N] of int: compatibility = \n    [| 0, 1, 0, 1 |\n     | 1, 0, 1, 0 |\n     | 0, 1, 0, 1 |\n     | 1, 0, 1, 0 |];\n\nconstraint all_different(position);\n\nconstraint forall(i in 1..N, j in 1..N where compatibility[i,j]=1) (\n    abs(position[i] div cols - position[j] div cols) > 1 \\/\n    abs(position[i] mod cols - position[j] mod cols) > 1\n);\n\nsolve satisfy;\n\noutput [\n    \"Furniture Positions: \\n\",\n    show(position),\n    \"\\n\"\n];",
+    "data": "N = 4;\nrows = 3;\ncols = 3;\ncompatibility = [\n    [0, 1, 0, 1],\n    [1, 0, 1, 0],\n    [0, 1, 0, 1],\n    [1, 0, 1, 0]\n];"
+}

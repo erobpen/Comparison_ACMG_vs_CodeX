@@ -1,0 +1,4 @@
+{
+  "model": "%% 8 Queens Problem\n\nint: n = 8;\n\narray[1..n] of var 1..n: queens;\n\nconstraint all_different([queens[i] + i | i in 1..n]) /\\ all_different([queens[i] - i | i in 1..n]) /\\ all_different(queens);\n\nsolve satisfy;\n\noutput [\n  \"Queens positions: \\(queens)\"\n];",
+  "data": ""
+}

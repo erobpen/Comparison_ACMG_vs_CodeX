@@ -1,0 +1,7 @@
+There are n classrooms available, each of which can be used for a maximum of m hours per day. The school operates for 3 hours each day, from 5 to 8. There are k classes, with each class occupying one classroom for an hour at a time. Each classroom corresponds to a specific subject. A class can have between 1 and z subjects per week, and the weekly schedule spans 5 days. The school houses four subjects across its classrooms: A, B, C, and D. The quantity of class sessions per subject across different days is outlined in the following matrix:
+Class/Subject Qty =
+[2 2 1 3
+1 2 3 3
+1 2 3 3
+4 2 1 3]
+Each row in the matrix corresponds to a different class, and each column represents one of the four subjects (A, B, C, and D). The numbers indicate the quantity of sessions needed for each class in each subject over the week. Given that the school operates for a total of 15 hours per week (3 hours per day for 5 days), the task is to allocate the time for each subject in each classroom to ensure every class has its required sessions, while respecting the maximum available classroom hours per day. Create a balanced schedule across all five days, ensuring that no class exceeds its designated time for any subject and that subjects are properly distributed across the classrooms.

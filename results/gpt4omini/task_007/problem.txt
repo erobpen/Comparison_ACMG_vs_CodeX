@@ -1,0 +1,9 @@
+
+
+The Concert Ticket Selling problem involves determining if it's possible to sell concert tickets to meet a total price goal while accommodating special guests and maximizing profit. There are 1,000 total seats, including 200 VIP seats and 400 free seats for special guests. The VIP ticket price is $150, and the regular ticket price is $50.
+Constraints:
+1. Seat Usage: Ensure that the total number of seats used does not exceed the available seats. VIP seats used should not exceed 200, and free seats used should not exceed 400. The required number of free seats for special guests is 400.
+2. Total Price Requirement: Ensure that the total price goal of $50,000 is met through ticket sales.
+3. Profit Calculation: The total revenue is calculated from the sale of VIP and regular tickets. Total expenses, including staff salary and concert fund, are $35,000. The goal profit is calculated by subtracting expenses from the total price goal.
+Objective: Satisfy all constraints to achieve the desired profit while meeting the total price goal and accommodating special guests.
+A valid solution ensures that the required number of special guest seats is available, the total price goal is met, and the profit is optimized.

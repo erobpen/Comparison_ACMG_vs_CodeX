@@ -1,0 +1,4 @@
+
+[stderr]
+Error: type error: type error in operator application for `'..''. No matching operator found with left-hand side type `int' and right-hand side type `set of int'
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt35\task_004\generated_model.mzn:1.324-330

@@ -1,0 +1,4 @@
+
+[stderr]
+Error: type error: type error in operator application for `'->''. No matching operator found with left-hand side type `var bool' and right-hand side type `var float'
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_002\generated_model.mzn:37.5-38.24

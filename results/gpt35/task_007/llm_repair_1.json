@@ -1,0 +1,4 @@
+{
+  "model": "var int: VIP_price = 150;\nvar int: regular_price = 50;\nvar int: total_seats = 1000;\nvar int: VIP_seats = 200;\nvar int: free_seats = 400;\nvar int: total_price_goal = 50000;\nvar int: total_expenses = 35000;\n\nvar 0..VIP_seats: VIP_tickets_sold;\nvar 0..free_seats: free_tickets_sold;\n\nconstraint VIP_tickets_sold * VIP_price + free_tickets_sold * regular_price >= total_price_goal;\nconstraint VIP_tickets_sold + free_tickets_sold <= total_seats;\nconstraint VIP_tickets_sold <= VIP_seats;\nconstraint free_tickets_sold <= free_seats;\n\nvar int: total_revenue = VIP_tickets_sold * VIP_price + free_tickets_sold * regular_price;\nvar int: goal_profit = total_price_goal - total_expenses;\n\nsolve satisfy;\n\noutput [\n  \"VIP Tickets Sold: \\(VIP_tickets_sold)\",\n  \"Free Tickets Sold: \\(free_tickets_sold)\",\n  \"Total Revenue: \\(total_revenue)\",\n  \"Goal Profit: \\(goal_profit)\"\n];",
+  "data": ""
+}

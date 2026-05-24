@@ -1,0 +1,6 @@
+
+[stderr]
+C:\Users\rober\OneDrive\Desktop\Posao\ACMG\results\gpt4omini\task_006\generated_model.mzn:9.53:
+int: non_swing_votes = sum(i in 1..num_states where !(i in swing_states) \ (if electoral_coefficients[i] > 0.5 then electoral_votes[i] else 0 endif));
+                                                    ^
+Error: syntax error, unexpected invalid token
