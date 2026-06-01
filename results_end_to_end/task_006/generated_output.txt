@@ -1,0 +1,2 @@
+Error: type error: cannot determine coercion from type array[int] of int to type array[int] of bool
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\task_006\generated_model.mzn:16.54-118

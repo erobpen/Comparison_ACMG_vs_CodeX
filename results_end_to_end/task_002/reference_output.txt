@@ -1,0 +1,30 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=57
+%%%mzn-stat: flatIntVars=71
+%%%mzn-stat: flatBoolConstraints=37
+%%%mzn-stat: flatIntConstraints=84
+%%%mzn-stat: evaluatedReifiedConstraints=57
+%%%mzn-stat: eliminatedImplications=9
+%%%mzn-stat: method="satisfy"
+%%%mzn-stat: flatTime=0.0920504
+%%%mzn-stat-end
+BOARD1 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0];
+BOARD2 = [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0];
+BOARD3 = [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+LBOARD1 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+LBOARD2 = [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+----------
+%%%mzn-stat: initTime=0.0071009
+%%%mzn-stat: solveTime=0.0003693
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=237
+%%%mzn-stat: propagators=121
+%%%mzn-stat: propagations=290
+%%%mzn-stat: nodes=20
+%%%mzn-stat: failures=3
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=13
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end

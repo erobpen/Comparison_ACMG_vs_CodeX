@@ -1,0 +1,9 @@
+
+
+The US Presidential Elections problem involves determining the probability of the Democratic party winning the election by calculating electoral votes from 50 states. Each state has a specific number of electoral votes and an electoral coefficient indicating the probability of voting for Democrats. The swing states are defined by their indices [1, 2, 3, 4, 6].
+Constraints:
+1. Non-Swing States Contribution: Electoral votes from non-swing states are added to the Democratic tally if the electoral coefficient is greater than 0.5.
+2. Swing States Probability Calculation: For swing states, calculate the probability of Democrats winning by considering all possible outcomes. Each outcome is a vector representing the swing states, and their probability distribution equals the electoral coefficient at those states.
+3. Winning Probability: An outcome contributes to the probability of Democratic victory if the total electoral votes, including swing state votes, exceed the required 270 votes.
+Objective: The goal is to achieve a probability higher than 0.5 for the Democratic party winning the election based on the provided electoral votes and coefficients.
+A valid solution ensures that all calculations are done correctly, and the probability of winning is accurately determined.

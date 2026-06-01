@@ -1,0 +1,345 @@
+=====UNKNOWN=====
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 2 of array has index set 1..40, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:72.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 2 of array has index set 1..40, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:72.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:66.20-70.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:67.10-50
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 31)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+  in binary '->' operator expression
+  in unary 'not' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:70.20-74.15
+  in binary '/\' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:73.10-50
+  in binary '\/' operator expression
+  in unary 'not' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: undefined result becomes false in Boolean context
+  (array access out of bounds, dimension 1 of array has index set 1..30, but given index is 0)
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:45.12-78.1
+  in call 'forall'
+  in array comprehension expression
+    with i = <expression>
+    with j = <expression>
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:47.5-77.5
+  in binary '->' operator expression
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\tmp8fj7t4ni\reference_model.mzn:75.9-76.51
+  in binary '/\' operator expression
+  in binary '\/' operator expression
+  in binary '=' operator expression
+  in array access
+
+Warning: Further warnings have been suppressed.
+

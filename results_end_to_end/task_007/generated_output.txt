@@ -1,0 +1,25 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=3
+%%%mzn-stat: flatIntConstraints=3
+%%%mzn-stat: method="maximize"
+%%%mzn-stat: flatTime=0.0911645
+%%%mzn-stat-end
+VIP tickets sold: 200
+Regular tickets sold: 400
+Profit: 15000
+----------
+==========
+%%%mzn-stat: initTime=0.0003565
+%%%mzn-stat: solveTime=7.85e-05
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=3
+%%%mzn-stat: propagators=0
+%%%mzn-stat: propagations=16
+%%%mzn-stat: nodes=1
+%%%mzn-stat: failures=0
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=0
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end

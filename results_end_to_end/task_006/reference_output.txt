@@ -1,0 +1,22 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatFloatVars=1
+%%%mzn-stat: method="satisfy"
+%%%mzn-stat: flatTime=0.0885697
+%%%mzn-stat-end
+Total Electoral Votes: 263.66
+Probability of Democratic Win: 0.5010236
+----------
+%%%mzn-stat: initTime=0.0002133
+%%%mzn-stat: solveTime=3.49e-05
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=0
+%%%mzn-stat: propagators=0
+%%%mzn-stat: propagations=0
+%%%mzn-stat: nodes=1
+%%%mzn-stat: failures=0
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=0
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end

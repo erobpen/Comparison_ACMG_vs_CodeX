@@ -1,0 +1,1 @@
+Is it possible to place 5 items in three 3 dimensional spaces of width of 10 units, height of 10 units, and depth of 10 units, without them intersecting, and the dimensions of each item (given as a set of three coordinates (width, height, depth)) are: (2,2,2), (3,3,2), (4,2,3), (1,1,1), (2,3,2).

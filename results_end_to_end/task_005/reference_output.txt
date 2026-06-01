@@ -1,0 +1,31 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatBoolVars=70
+%%%mzn-stat: flatIntVars=21
+%%%mzn-stat: flatBoolConstraints=10
+%%%mzn-stat: flatIntConstraints=71
+%%%mzn-stat: evaluatedHalfReifiedConstraints=70
+%%%mzn-stat: method="minimize"
+%%%mzn-stat: flatTime=0.264123
+%%%mzn-stat-end
+Bins used: 1
+Item 1 in bin 1 at position (2, 0, 0)
+Item 2 in bin 1 at position (0, 0, 2)
+Item 3 in bin 1 at position (0, 3, 0)
+Item 4 in bin 1 at position (4, 0, 0)
+Item 5 in bin 1 at position (0, 0, 0)
+----------
+==========
+%%%mzn-stat: initTime=0.0012632
+%%%mzn-stat: solveTime=0.0001766
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=91
+%%%mzn-stat: propagators=81
+%%%mzn-stat: propagations=238
+%%%mzn-stat: nodes=21
+%%%mzn-stat: failures=3
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=20
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end

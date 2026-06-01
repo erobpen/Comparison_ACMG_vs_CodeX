@@ -1,0 +1,51 @@
+% Generated FlatZinc statistics:
+%%%mzn-stat: paths=0
+%%%mzn-stat: flatIntVars=80
+%%%mzn-stat: flatIntConstraints=56
+%%%mzn-stat: method="satisfy"
+%%%mzn-stat: flatTime=0.0943347
+%%%mzn-stat-end
+Schedule:
+=============================
+Class 1:
+-----------------------------
+Subject 1:	 2  0  0  0  0 
+Subject 2:	 0  0  2  0  0 
+Subject 3:	 1  0  0  0  0 
+Subject 4:	 0  2  0  0  1 
+-----------------------------
+Class 2:
+-----------------------------
+Subject 1:	 1  0  0  0  0 
+Subject 2:	 0  2  0  0  0 
+Subject 3:	 0  0  3  0  0 
+Subject 4:	 0  0  0  3  0 
+-----------------------------
+Class 3:
+-----------------------------
+Subject 1:	 1  0  0  0  0 
+Subject 2:	 2  0  0  0  0 
+Subject 3:	 0  3  0  0  0 
+Subject 4:	 0  0  3  0  0 
+-----------------------------
+Class 4:
+-----------------------------
+Subject 1:	 0  0  3  1  0 
+Subject 2:	 2  0  0  0  0 
+Subject 3:	 1  0  0  0  0 
+Subject 4:	 0  3  0  0  0 
+-----------------------------
+----------
+%%%mzn-stat: initTime=0.0008143
+%%%mzn-stat: solveTime=0.0002087
+%%%mzn-stat: solutions=1
+%%%mzn-stat: variables=80
+%%%mzn-stat: propagators=56
+%%%mzn-stat: propagations=274
+%%%mzn-stat: nodes=60
+%%%mzn-stat: failures=0
+%%%mzn-stat: restarts=0
+%%%mzn-stat: peakDepth=59
+%%%mzn-stat-end
+%%%mzn-stat: nSolutions=1
+%%%mzn-stat-end

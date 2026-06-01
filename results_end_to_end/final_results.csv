@@ -1,0 +1,11 @@
+task_id,valid_model,generated_solver_status,reference_solver_status,comparison_result,execution_time_seconds,notes
+task_001,TRUE,SATISFIABLE,SATISFIABLE,NOT_COMPARABLE,0.148,"SAT/UNSAT matched or was unavailable, but objective/solution comparison was not meaningful."
+task_002,FALSE,ERROR,SATISFIABLE,NOT_COMPARABLE,0.086,Generated model did not compile/execute successfully.
+task_003,FALSE,ERROR,UNKNOWN,NOT_COMPARABLE,0.075,Generated model did not compile/execute successfully. Reference run did not produce a comparable result.
+task_004,FALSE,ERROR,SATISFIABLE,NOT_COMPARABLE,0.084,Generated model did not compile/execute successfully.
+task_005,TRUE,SATISFIABLE,OPTIMAL,NOT_COMPARABLE,0.141,"SAT/UNSAT matched or was unavailable, but objective/solution comparison was not meaningful."
+task_006,FALSE,ERROR,SATISFIABLE,NOT_COMPARABLE,0.084,Generated model did not compile/execute successfully.
+task_007,TRUE,OPTIMAL,SATISFIABLE,NOT_COMPARABLE,0.152,"SAT/UNSAT matched or was unavailable, but objective/solution comparison was not meaningful."
+task_008,FALSE,UNKNOWN,UNKNOWN,NOT_COMPARABLE,10.068,Generated model did not compile/execute successfully. Reference run did not produce a comparable result.
+task_009,FALSE,ERROR,OPTIMAL,NOT_COMPARABLE,0.097,Generated model did not compile/execute successfully.
+task_010,TRUE,SATISFIABLE,SATISFIABLE,NOT_COMPARABLE,0.157,"SAT/UNSAT matched or was unavailable, but objective/solution comparison was not meaningful."

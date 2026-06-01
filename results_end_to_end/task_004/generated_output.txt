@@ -1,0 +1,2 @@
+Error: type error: cannot determine coercion from type var float to type var bool
+C:\Users\rober\OneDrive\Desktop\Posao\Comparison_ACMG_vs_CodeX\results_end_to_end\task_004\generated_model.mzn:14.3-22.3
